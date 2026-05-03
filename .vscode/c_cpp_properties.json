@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/usr/local/include"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}
