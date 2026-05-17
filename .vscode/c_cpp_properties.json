@@ -7,8 +7,10 @@
                 "/usr/include",
                 "/usr/local/include"
             ],
+            "defines": ["_GNU_SOURCE"],
             "compilerPath": "/usr/bin/gcc",
-            "cStandard": "c11"
+            "cStandard": "c11",
+            "intelliSenseMode": "linux-gcc-x64"
         }
     ],
     "version": 4
